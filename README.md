@@ -21,8 +21,6 @@ notebooks: [![Open In Colab][colab-badge]][colab-notebook]
 </div> 
 
 
-
-
 ## Set up
 
 Install Pytorch in the new enviroment:
@@ -74,7 +72,7 @@ python generate.py -p "A painting of an apple in a fruit bowl"
 
 <img src="./samples/A_painting_of_an_apple_in_a_fruitbowl.png" width="256px"></img>
 
-## Multiple prompts
+## Multiple prompts for images
 
 Text and image prompts can be split using the pipe symbol in order to allow multiple prompts.
 You can also use a colon followed by a number to set a weight for that prompt. For example:
