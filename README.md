@@ -62,7 +62,7 @@ By default, the model .yaml and .ckpt files are expected in the `checkpoints` di
 See <https://github.com/CompVis/taming-transformers> for more information on datasets and models.
 
 
-## Run
+## Run for images for videos just Run Notebooks enough
 
 To generate images from text, specify your text prompt as shown in the example below:
 
