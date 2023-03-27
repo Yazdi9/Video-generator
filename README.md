@@ -1,10 +1,14 @@
 # VQGAN-CLIP And Sdvm
 
-Original notebook: [![Open In Colab][colab-badge]][colab-notebook]
+full Notebooks also Avaliable on notebook folder
 
-[colab-notebook]: <https://colab.research.google.com/drive/1ZAus_gn2RhTZWzOWUpPERNC0Q8OhZRTZ>
+notebooks: [![Open In Colab][colab-badge]][colab-notebook]
+
+[colab-notebook]: <https://colab.research.google.com/drive/1Beuy31ZtlXSNyttNXfz_oq9US-8r2M0k?usp=sharing>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
+[colab-notebook]: <https://colab.research.google.com/github/pollinations/hive/blob/main/notebooks/2%20Text-To-Video/1%20CLIP-Guided%20VQGAN%203D%20Turbo%20Zoom.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 <div align=center>
 <img  src="https://user-images.githubusercontent.com/33378412/228069542-eb80459b-82ff-4ba0-95a3-f89dbd9d0bbb.gif" width="450" height="420">
@@ -81,12 +85,8 @@ python generate.py -p "A painting of an apple in a fruit bowl | psychedelic | su
 
 <img src="./samples/Apple_weird.png" width="256px"></img>
 
-Image prompts can be split in the same way. For example:
 
-```sh
-python generate.py -p "A picture of a bedroom with a portrait of Van Gogh" -ip "samples/VanGogh.jpg | samples/Bedroom.png"
-```
-```
+
 
 
 
