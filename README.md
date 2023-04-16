@@ -11,13 +11,13 @@ notebooks: [![Open In Colab][colab-badge]][colab-notebook]
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 <div align=center>
-<img  src="https://user-images.githubusercontent.com/33378412/228069542-eb80459b-82ff-4ba0-95a3-f89dbd9d0bbb.gif" width="450" height="420">
-<img  src="https://user-images.githubusercontent.com/33378412/228069054-5262cc58-1cd4-4927-bef4-8c628aed73c7.gif" width="450" height="420"> 
+<img  src="https://user-images.githubusercontent.com/33378412/228069542-eb80459b-82ff-4ba0-95a3-f89dbd9d0bbb.gif" width="400" height="420">
+<img  src="https://user-images.githubusercontent.com/33378412/228069054-5262cc58-1cd4-4927-bef4-8c628aed73c7.gif" width="400" height="420"> 
 </div>  
 
 <div align=center>
-<img  src="https://user-images.githubusercontent.com/33378412/228073093-609aa05e-4fd2-4c57-bed6-dea9398c0f70.gif" width="450" height="420">
-<img  src="https://user-images.githubusercontent.com/33378412/228074409-75b74676-cb55-4bb4-a5a6-236dd2510f47.gif" width="450" height="420"> 
+<img  src="https://user-images.githubusercontent.com/33378412/228073093-609aa05e-4fd2-4c57-bed6-dea9398c0f70.gif" width="400" height="420">
+<img  src="https://user-images.githubusercontent.com/33378412/228074409-75b74676-cb55-4bb4-a5a6-236dd2510f47.gif" width="400" height="420"> 
 </div> 
 
 
